@@ -1,0 +1,24 @@
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.deps.json
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\ref\FassasInvoicingLibrary.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.pdb
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.AssemblyInfoInputs.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.AssemblyInfo.cs
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\ref\FassasInvoicingLibrary.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.pdb
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.csprojAssemblyReference.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.deps.json
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\ref\FassasInvoicingLibrary.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\bin\Debug\net5.0\FassasInvoicingLibrary.pdb
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.csprojAssemblyReference.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.AssemblyInfoInputs.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.AssemblyInfo.cs
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\ref\FassasInvoicingLibrary.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingLibrary\obj\Debug\net5.0\FassasInvoicingLibrary.pdb

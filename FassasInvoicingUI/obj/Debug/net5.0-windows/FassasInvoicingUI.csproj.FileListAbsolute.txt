@@ -1,0 +1,64 @@
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.exe
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.deps.json
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.runtimeconfig.json
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.runtimeconfig.dev.json
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\ref\FassasInvoicingUI.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.pdb
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csprojAssemblyReference.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.GenerateResource.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.AssemblyInfoInputs.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.AssemblyInfo.cs
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.CoreCompileInputs.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\ref\FassasInvoicingUI.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.pdb
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.genruntimeconfig.cache
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.MainUI.resources
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.NeosPelatis.resources
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingLibrary.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingLibrary.pdb
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.CopyComplete
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.dll.config
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.NeoTimologio.resources
+C:\Users\gfass\source\repos\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.ProvoliEterion.resources
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csprojAssemblyReference.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.MainUI.resources
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.NeosPelatis.resources
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.NeoTimologio.resources
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.ProvoliEterion.resources
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.GenerateResource.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.AssemblyInfoInputs.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.AssemblyInfo.cs
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.CoreCompileInputs.cache
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\ref\FassasInvoicingUI.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.pdb
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.exe
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.dll.config
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.deps.json
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.runtimeconfig.json
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.runtimeconfig.dev.json
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\ref\FassasInvoicingUI.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingUI.pdb
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingLibrary.dll
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\bin\Debug\net5.0-windows\FassasInvoicingLibrary.pdb
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.csproj.CopyComplete
+C:\Users\gfass\Desktop\vs proj\FassasInvoicing\FassasInvoicingUI\obj\Debug\net5.0-windows\FassasInvoicingUI.genruntimeconfig.cache
