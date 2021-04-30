@@ -8,7 +8,6 @@ namespace FassasInvoicingLibrary
 {
     public class Invoice
     {
-        //testgnbf cvncf ghjcfhfgchcf hg
         public int AuksonArithmos { get; set; }
         public string Imerominia { get; set; }
         public string Afm { get; set; }
